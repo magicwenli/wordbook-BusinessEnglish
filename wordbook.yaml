@@ -6,7 +6,7 @@ info:
   tags:
     - business
     - college
-  visibility: public
+  visibility: private
   difficulty_level: D2
   repository_type: "git"
   repository_url: "https://github.com/magicwenli/wordbook-BusinessEnglish/tree/main/wordbook-BusinessEnglish"
