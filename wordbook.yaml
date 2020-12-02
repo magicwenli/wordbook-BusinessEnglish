@@ -1,0 +1,15 @@
+wordway: 1.0.0
+info:
+  slug: BusinessEnglish
+  title: 大学商务英语综合教程
+  summary: "清华大学出版社"
+  tags:
+    - business
+    - college
+  visibility: public
+  difficulty_level: D2
+  repository_type: "git"
+  repository_url: "https://github.com/magicwenli/wordbook-BusinessEnglish/tree/main/wordbook-BusinessEnglish"
+  author: "magicwenli"
+  author_email: "yxra3503@outlook.com"
+  author_link: "https://github.com/magicwenli"
